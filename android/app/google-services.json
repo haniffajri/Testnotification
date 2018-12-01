@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "835217619842",
+    "firebase_url": "https://fmctest-44cb2.firebaseio.com",
+    "project_id": "fmctest-44cb2",
+    "storage_bucket": "fmctest-44cb2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835217619842:android:78df3170163ba4c6",
+        "android_client_info": {
+          "package_name": "com.chatbot.testfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835217619842-d3uavlqo7h8focr2naqfkqv1bql5un4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfpPbt9IDcdETwNRtViX6s0434tK7PA2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835217619842:android:56e296a23bcf072c",
+        "android_client_info": {
+          "package_name": "com.testnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835217619842-d3uavlqo7h8focr2naqfkqv1bql5un4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfpPbt9IDcdETwNRtViX6s0434tK7PA2k"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
