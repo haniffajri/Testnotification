@@ -10,7 +10,8 @@
     "react": "16.6.1",
     "react-native": "0.57.7",
     "react-native-fcm": "^16.2.4",
-    "react-native-firebase": "^5.1.1"
+    "react-native-firebase": "^5.1.1",
+    "react-navigation": "git+https://github.com/react-community/react-navigation.git"
   },
   "devDependencies": {
     "babel-jest": "23.6.0",
